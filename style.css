@@ -96,7 +96,7 @@ color: var(--color-btn);
 
 .product_rating::after{
   /* content: url(../Star\ 1\ \(Stroke\).svg); */
-  content: url(../img/Star\ 1\ \(Stroke\).svg);
+  content: url(./img/Star\ 1\ \(Stroke\).svg);
 margin-left: 10px;
 }
 .product_name{
